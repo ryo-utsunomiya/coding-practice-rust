@@ -1,9 +1,8 @@
 fn main() {
     proconio::input! {
+        n: i32,
         a: i32,
         b: i32,
-        c: i32,
-        s: String,
     }
-    println!("{} {}", a + b + c, s);
+    println!("{}", n - a + b);
 }
