@@ -9,5 +9,5 @@ fn main() {
             ans = true;
         }
     }
-    println!("{}", if ans { "Yes" } else { "No" })
+    println!("{}", if ans { "Yes" } else { "No" });
 }
