@@ -5,3 +5,99 @@ edition = "2021"
 
 [dependencies]
 proconio = "0.4.5"
+
+[[bin]]
+name = "src_bin_abc170_a"
+path = "src/bin/abc170_a.rs"
+
+[[bin]]
+name = "src_bin_abc168_c"
+path = "src/bin/abc168_c.rs"
+
+[[bin]]
+name = "src_bin_abc184_a"
+path = "src/bin/abc184_a.rs"
+
+[[bin]]
+name = "src_bin_abc168_b"
+path = "src/bin/abc168_b.rs"
+
+[[bin]]
+name = "src_bin_abc183_a"
+path = "src/bin/abc183_a.rs"
+
+[[bin]]
+name = "src_bin_abc176_a"
+path = "src/bin/abc176_a.rs"
+
+[[bin]]
+name = "src_bin_abc177_a"
+path = "src/bin/abc177_a.rs"
+
+[[bin]]
+name = "src_bin_abc161_a"
+path = "src/bin/abc161_a.rs"
+
+[[bin]]
+name = "src_bin_abc182_a"
+path = "src/bin/abc182_a.rs"
+
+[[bin]]
+name = "src_bin_abc178_a"
+path = "src/bin/abc178_a.rs"
+
+[[bin]]
+name = "src_bin_abc174_a"
+path = "src/bin/abc174_a.rs"
+
+[[bin]]
+name = "src_bin_abc163_a"
+path = "src/bin/abc163_a.rs"
+
+[[bin]]
+name = "src_bin_abc183_b"
+path = "src/bin/abc183_b.rs"
+
+[[bin]]
+name = "src_bin_abc180_a"
+path = "src/bin/abc180_a.rs"
+
+[[bin]]
+name = "src_bin_abc_181_a"
+path = "src/bin/abc_181_a.rs"
+
+[[bin]]
+name = "src_bin_abc172_a"
+path = "src/bin/abc172_a.rs"
+
+[[bin]]
+name = "src_bin_abc164_a"
+path = "src/bin/abc164_a.rs"
+
+[[bin]]
+name = "src_bin_abc168_a"
+path = "src/bin/abc168_a.rs"
+
+[[bin]]
+name = "src_bin_abc186_a"
+path = "src/bin/abc186_a.rs"
+
+[[bin]]
+name = "src_bin_abc170_b"
+path = "src/bin/abc170_b.rs"
+
+[[bin]]
+name = "src_bin_abc165_a"
+path = "src/bin/abc165_a.rs"
+
+[[bin]]
+name = "src_bin_atcoder_abc152_a"
+path = "src/bin/atcoder/abc152/a.rs"
+
+[[bin]]
+name = "src_bin_atcoder_abc086_a"
+path = "src/bin/atcoder/abc086/a.rs"
+
+[[bin]]
+name = "src_bin_atcoder_abc169_a"
+path = "src/bin/atcoder/abc169/a.rs"
