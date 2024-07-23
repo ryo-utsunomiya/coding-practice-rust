@@ -6,7 +6,7 @@ fn main() {
     }
 
     let mut ans = false;
-    for i in a..b+1 {
+    for i in a..b + 1 {
         if i % k == 0 {
             ans = true;
             break;

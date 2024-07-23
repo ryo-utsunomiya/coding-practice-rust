@@ -6,5 +6,5 @@ fn main() {
 }
 
 fn relu(x: i32) -> i32 {
-    return if x >= 0 { x } else { 0 }
+    return if x >= 0 { x } else { 0 };
 }
