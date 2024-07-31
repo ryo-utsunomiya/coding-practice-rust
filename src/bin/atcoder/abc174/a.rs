@@ -1,3 +1,5 @@
+mod b;
+
 fn main() {
     proconio::input! {
         x: i32,
