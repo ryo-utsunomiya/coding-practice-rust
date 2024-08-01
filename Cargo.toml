@@ -15,10 +15,6 @@ name = "src_bin_abc183_a"
 path = "src/bin/abc183_a.rs"
 
 [[bin]]
-name = "src_bin_abc177_a"
-path = "src/bin/abc177_a.rs"
-
-[[bin]]
 name = "src_bin_abc182_a"
 path = "src/bin/abc182_a.rs"
 
@@ -87,6 +83,14 @@ name = "src_bin_atcoder_abc176_c"
 path = "src/bin/atcoder/abc176/c.rs"
 
 [[bin]]
+name = "src_bin_atcoder_abc171_a"
+path = "src/bin/atcoder/abc171/a.rs"
+
+[[bin]]
+name = "src_bin_atcoder_abc171_b"
+path = "src/bin/atcoder/abc171/b.rs"
+
+[[bin]]
 name = "src_bin_atcoder_abc185_a"
 path = "src/bin/atcoder/abc185/a.rs"
 
@@ -97,6 +101,10 @@ path = "src/bin/atcoder/abc170/a.rs"
 [[bin]]
 name = "src_bin_atcoder_abc170_b"
 path = "src/bin/atcoder/abc170/b.rs"
+
+[[bin]]
+name = "src_bin_atcoder_abc177_a"
+path = "src/bin/atcoder/abc177/a.rs"
 
 [[bin]]
 name = "src_bin_atcoder_abc169_a"
