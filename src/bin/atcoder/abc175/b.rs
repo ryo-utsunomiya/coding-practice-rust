@@ -12,9 +12,11 @@ fn main() {
         for j in i + 1..n {
             for k in j + 1..n {
                 let (a, b, c) = (l[i], l[j], l[k]);
-                if (a != b && b != c && c != a) // 三辺がすべて異なる
-                    && (a + b > c && b + c > a && c + a > b // 三角形が成立する
-                ) {
+                // 三辺がすべて異なる
+                if (a != b && b != c && c != a)
+                    // 三角形が成立する
+                    && (a + b > c && b + c > a && c + a > b)
+                {
                     ans += 1;
                 }
             }
