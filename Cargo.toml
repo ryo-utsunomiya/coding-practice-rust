@@ -7,10 +7,6 @@ edition = "2021"
 proconio = "0.4.5"
 
 [[bin]]
-name = "src_bin_abc184_a"
-path = "src/bin/abc184_a.rs"
-
-[[bin]]
 name = "src_bin_abc_181_a"
 path = "src/bin/abc_181_a.rs"
 
@@ -91,6 +87,10 @@ name = "src_bin_atcoder_abc178_a"
 path = "src/bin/atcoder/abc178/a.rs"
 
 [[bin]]
+name = "src_bin_atcoder_abc184_a"
+path = "src/bin/atcoder/abc184/a.rs"
+
+[[bin]]
 name = "src_bin_atcoder_abc170_a"
 path = "src/bin/atcoder/abc170/a.rs"
 
@@ -113,6 +113,10 @@ path = "src/bin/atcoder/abc183/b.rs"
 [[bin]]
 name = "src_bin_atcoder_abc169_a"
 path = "src/bin/atcoder/abc169/a.rs"
+
+[[bin]]
+name = "src_bin_atcoder_abc166_a"
+path = "src/bin/atcoder/abc166/a.rs"
 
 [[bin]]
 name = "src_bin_atcoder_abc161_a"
