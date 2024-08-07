@@ -5,9 +5,10 @@ fn main() {
         a: char,
     }
 
-    if 'A' <= a && a <= 'Z' {
-        println!("A");
-    } else {
-        println!("a");
-    }
+    let ans = match a {
+        'A'..='Z' => 'A',
+        'a'..='z' => 'a',
+        _ => unreachable!(),
+    };
+    println!("{}", ans);
 }
