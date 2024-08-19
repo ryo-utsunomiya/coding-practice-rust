@@ -87,6 +87,10 @@ name = "src_bin_atcoder_abc179_a"
 path = "src/bin/atcoder/abc179/a.rs"
 
 [[bin]]
+name = "src_bin_atcoder_typical90_033"
+path = "src/bin/atcoder/typical90/033.rs"
+
+[[bin]]
 name = "src_bin_atcoder_abc184_a"
 path = "src/bin/atcoder/abc184/a.rs"
 
