@@ -171,6 +171,14 @@ name = "src_bin_atcoder_abc085_c"
 path = "src/bin/atcoder/abc085/c.rs"
 
 [[bin]]
+name = "src_bin_atcoder_abc083_a"
+path = "src/bin/atcoder/abc083/a.rs"
+
+[[bin]]
+name = "src_bin_atcoder_abc083_b"
+path = "src/bin/atcoder/abc083/b.rs"
+
+[[bin]]
 name = "src_bin_atcoder_abc064_a"
 path = "src/bin/atcoder/abc064/a.rs"
 
