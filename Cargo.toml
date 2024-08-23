@@ -23,6 +23,14 @@ name = "src_bin_atcoder_abc137_a"
 path = "src/bin/atcoder/abc137/a.rs"
 
 [[bin]]
+name = "src_bin_atcoder_abc162_a"
+path = "src/bin/atcoder/abc162/a.rs"
+
+[[bin]]
+name = "src_bin_atcoder_abc162_b"
+path = "src/bin/atcoder/abc162/b.rs"
+
+[[bin]]
 name = "src_bin_atcoder_abc165_a"
 path = "src/bin/atcoder/abc165/a.rs"
 
